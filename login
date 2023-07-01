@@ -59,7 +59,7 @@
       </div>
       <div class="form-group">
         <input type="submit" value="Login">
-      <a href="main.html">Main Page</a>
+      <a href="main.html"></a>
       </div>
     </form>
   </div>
