@@ -58,9 +58,8 @@
         <input type="password" id="password" name="password" required>
       </div>
       <div class="form-group">
-        <input type="submit" value="Login">
-      <a href="main.html"></a>
-      </div>
+        <input type="submit" <a href="main.html"></a> value="Login">
+           </div>
     </form>
   </div>
 </body>
