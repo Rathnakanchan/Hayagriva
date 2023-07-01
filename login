@@ -48,18 +48,17 @@
 <body>
   <div class="container">
     <h2>Login</h2>
-    <form>
+    <form action="main.html" method="POST">
       <div class="form-group">
         <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
+        <input type="text" id="username" name="Haya" required>
       </div>
       <div class="form-group">
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
+        <input type="password" id="password" name="Amma@1234" required>
       </div>
       <div class="form-group">
-        <input type="submit" value="Login"> <a href="main.html"></a>
-           </div>
+       </div>
     </form>
   </div>
 </body>
